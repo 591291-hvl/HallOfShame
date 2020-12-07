@@ -65,7 +65,7 @@ public class Tabeller {
 
 		// static setup for finding pattern
 		System.out.println("Pattern to find: " + patternToFind);
-		int arrayLength = Integer.parseInt(showInputDialog("Velg lengde på tabellen: "));
+		int arrayLength = Integer.parseInt(showInputDialog("Velg lengde pÃ¥ tabellen: "));
 		String[] stringArray = new String[arrayLength];
 		stringArray = fillString(arrayLength);
 		printArray(stringArray);
