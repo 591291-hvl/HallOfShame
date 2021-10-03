@@ -1,3 +1,7 @@
+//Wrote .contains without knowing .contains exists
+//checks number of times pattern exist in typed string
+
+
 package uke40;
 
 import static javax.swing.JOptionPane.*;
